@@ -1,7 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farichieri&label=Profile%20views&color=0e75b6&style=flat" alt="farichieri" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://frichieri.vercel.app/](https://frichieri.vercel.app/)
-
 # 💫About Me :
 Hi 👋, I'm Fabricio
 A passionate frontend developer from Argentina
