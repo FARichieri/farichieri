@@ -2,8 +2,7 @@
 <p>Hi 👋, I'm Fabricio</p>
 <p>A passionate frontend developer from Argentina</p>
 <p>I love working with both logic and web design in the front end.
-<p>In the logic, I work principally with JavaScript, React and Redux. And in the web design, with HTML and CSS. (I've worked with Material-UI and Bootstrap)</p>
-<p>Also, I have experience working with API's where I used Node.js, Express and PostgreSQL for database.</p>
+<p>In the logic, I work principally with JavaScript, React and Redux. And in the web design, with HTML and CSS. (I've worked with Material-UI and Bootstrap). Also, I have experience working with API's where I used Node.js, Express and PostgreSQL for database.</p>
 
 - 👨‍💻 All of my projects are available at [https://frichieri.vercel.app/](https://frichieri.vercel.app/)
 
