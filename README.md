@@ -1,7 +1,7 @@
 # 💫About Me :
-Hi 👋, I'm Fabricio
-A passionate frontend developer from Argentina
-I love working with both logic and web design
+<p>Hi 👋, I'm Fabricio</p>
+<p>A passionate frontend developer from Argentina</p>
+<p>I love working with both logic and web design</p>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/frichieri/) 
