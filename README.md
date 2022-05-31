@@ -3,7 +3,7 @@
 <p>A Full Stack Developer, Front End oriented from Argentina. I enjoy working with both logic and web design. I have experience working with JavaScript, HTML, CSS, React, Redux, NodeJS, among other technologies.</p>
 
 - 👨‍💻 All of my projects are available at [https://frichieri.vercel.app/](https://frichieri.vercel.app/)
-- 
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/frichieri-dev/) 
 
