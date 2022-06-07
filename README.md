@@ -1,6 +1,8 @@
 # 💫About Me :
 <p>Hi 👋, I'm Fabricio</p>
-<p>A Full Stack Developer, Front End oriented from Argentina. I enjoy working with both logic and web design. I have experience working with JavaScript, HTML, CSS, React, Redux, NodeJS, among other technologies.</p>
+<p>I’m a Full Stack Developer, Front End oriented from Buenos Aires, Argentina. I've been studying programming for just over a year, first at freeCodeCamp and then at soyHenry bootcamp. I am also a student of the degree in Information Systems at the University of Buenos Aires. In my free time I like to read, listen to podcasts and play sports.
+
+My stack: HTML, CSS, Javascript, React, Redux, Node.js, Express, PostgreSQL, Sequelize, Scrum, Material-UI, SASS.</p>
 
 - 👨‍💻 All of my projects are available at [https://frichieri.vercel.app/](https://frichieri.vercel.app/)
 
